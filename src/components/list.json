@@ -1,0 +1,43 @@
+[
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"pizza"
+    },
+    {
+        "name":"Pizzass",
+        "prize":"Rs.5ssss00",
+        "catagory":"pizza"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"pizza"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"chicken"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"chicken"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"chicken"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"chowmein"
+    },
+    {
+        "name":"Pizza",
+        "prize":"Rs.500",
+        "catagory":"chowmein"
+    }
+
+]
